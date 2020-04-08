@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid;
+  padding: 30px;
+}
+
+.TextBox {
+  text-align: center;
+}
